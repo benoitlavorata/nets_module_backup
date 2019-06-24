@@ -1,0 +1,31 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* n_user_access_grant_portal_access
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 12.0\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: n_user_access_grant_portal_access
+#. openerp-web
+#: code:addons/n_user_access_grant_portal_access/static/src/js/n_user_access_grant_portal_access.js:16
+#, python-format
+msgid "Grant_portal_access"
+msgstr ""
+
+#. module: n_user_access_grant_portal_access
+#: model:res.groups,name:n_user_access_grant_portal_access.group_grant_portal_access_data
+msgid "Grant_portal_access Data"
+msgstr ""
+
+#. module: n_user_access_grant_portal_access
+#: model:ir.model,name:n_user_access_grant_portal_access.model_ir_http
+msgid "HTTP Routing"
+msgstr ""
